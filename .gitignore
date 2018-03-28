@@ -1,4 +1,1 @@
-build/
-build_cmake/
-
-*.user
+slides-rendered
